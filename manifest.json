@@ -1,7 +1,7 @@
 {
     "name": "Adeel Ali Yousaf - Software Engineer & Developer",
     "short_name": "Adeel Ali Yousaf",
-    "start_url": "https://adeelchaudhary.com/",
+    "start_url": "https://adeelchaudhry.github.io/",
     "display": "fullscreen",
     "description": "Adeel Ali Yousaf is a professional Software Engineer and Developer with expertise in modern technologies. Explore the portfolio of Adeel Ali Yousaf for insights into innovative software solutions and development practices.",
     "lang": " en",
@@ -34,14 +34,14 @@
     "related_applications": [
         {
             "platform":"windows",
-            "url": "https://adeelchaudhary.com/"
+            "url": "https://adeelchaudhry.github.io/"
         }
     ],
     "prefer_related_applications": false,
     "shortcuts": [
         {
             "name":"Adeel Ali Yousaf",
-            "url":"https://adeelchaudhary.com/",
+            "url":"https://adeelchaudhry.github.io/",
             "description":"Adeel Ali Yousaf is a professional Software Engineer and Developer with expertise in modern technologies. Explore the portfolio of Adeel Ali Yousaf for insights into innovative software solutions and development practices."
         }
     ]
