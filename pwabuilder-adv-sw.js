@@ -14,7 +14,7 @@ precacheAndRoute([
   {"revision": "new-revision-7", "url": "assets/PGC-rnC3jh3D.png"},
   {"revision": "new-revision-8", "url": "assets/TIWL-Dg32wYmH.png"},
   {"revision": "new-revision-9", "url": "assets/USKT-XMICVP6r.png"},
-  {"revision": "new-revision-10", "url": "assets/menarebrave-BnbHV_-c.mp3"}
+  {"revision": "new-revision-10", "url": "assets/menarebrave-BnbHV_-c.mp3"},
   {"revision": "new-revision-11", "url": "assets/hockeypads-D6Tj7hp9.mp3"}
 ]);
 
